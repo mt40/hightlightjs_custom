@@ -1,5 +1,5 @@
 # hightlightjs_custom
-A custom bundle of HighlightJS containing Scala
+A custom bundle of HighlightJS that support code highlighting for: **css, python, bash, scss, json, markdown, java, html, and scala**
 
 This script can be served using its link on Github directly or through a CDN by including this in your html:
 ```html
